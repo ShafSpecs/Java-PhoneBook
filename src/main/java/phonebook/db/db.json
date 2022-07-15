@@ -1,1 +1,16 @@
-[{"phoneBook":{"size":0,"phoneBook":[]},"username":"Chibuzo","isLockedAccount":false}]
+[
+  {
+    "phoneBook": {
+      "size": 1,
+      "phoneBook": [
+        {
+          "user": {
+            "number": "09019234443"
+          }
+        }
+      ]
+    },
+    "username": "Chibuzo",
+    "isLockedAccount": false
+  }
+]
