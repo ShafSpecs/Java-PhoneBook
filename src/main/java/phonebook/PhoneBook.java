@@ -62,4 +62,8 @@ public class PhoneBook {
         phoneBook.remove(uselessUser);
         size--;
     }
+
+    public ArrayList<Contact> getPhoneBook() {
+        return phoneBook;
+    }
 }
